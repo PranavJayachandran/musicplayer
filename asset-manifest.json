@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/ECOM/static/css/main.e6c13ad2.css",
-    "main.js": "/ECOM/static/js/main.8b53003f.js",
-    "index.html": "/ECOM/index.html",
-    "main.e6c13ad2.css.map": "/ECOM/static/css/main.e6c13ad2.css.map",
-    "main.8b53003f.js.map": "/ECOM/static/js/main.8b53003f.js.map"
+    "main.css": "/musicplayer/static/css/main.54f0b098.css",
+    "main.js": "/musicplayer/static/js/main.5877743f.js",
+    "static/media/Kahaani.mp3": "/musicplayer/static/media/Kahaani.6f8acd37469943169a65.mp3",
+    "static/media/ilzam.mp3": "/musicplayer/static/media/ilzam.869741f9f39696211c70.mp3",
+    "static/media/ASB.mp3": "/musicplayer/static/media/ASB.7257ed0cd8f58ba54f6d.mp3",
+    "static/media/Tohfa.mp3": "/musicplayer/static/media/Tohfa.9038a442fae06e31e658.mp3",
+    "static/media/Riha.mp3": "/musicplayer/static/media/Riha.da64abd4aa0ac4b8c623.mp3",
+    "static/media/LJG.mp3": "/musicplayer/static/media/LJG.f953770830b06cab1518.mp3",
+    "static/media/Perfect.mp3": "/musicplayer/static/media/Perfect.8ed88edacd79c4349938.mp3",
+    "static/media/YPD.mp3": "/musicplayer/static/media/YPD.699417411aade1f7d331.mp3",
+    "static/media/gul.mp3": "/musicplayer/static/media/gul.097a9c201b977f1dd6e0.mp3",
+    "static/media/perfect.jpg": "/musicplayer/static/media/perfect.fd8701d32406533f0b26.jpg",
+    "index.html": "/musicplayer/index.html",
+    "main.54f0b098.css.map": "/musicplayer/static/css/main.54f0b098.css.map",
+    "main.5877743f.js.map": "/musicplayer/static/js/main.5877743f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.8b53003f.js"
+    "static/css/main.54f0b098.css",
+    "static/js/main.5877743f.js"
   ]
 }
